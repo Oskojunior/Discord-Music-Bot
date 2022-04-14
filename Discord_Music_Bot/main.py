@@ -136,4 +136,4 @@ async def queue(ctx):
     await ctx.send(str(music_queue))
 
 
-Player.music.run('OTA3Mzg4MjcwODg1ODcxNjQ2.YYmdLg.wL-ozqEc1JoCe5e7ybXct1_cwjI')
+Player.music.run('token')
